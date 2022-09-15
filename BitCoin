@@ -1,0 +1,4 @@
+let bit = 21000;
+let doll = 1000;
+let result = doll / bit;
+console.log("You can buy " + result + " BTC");
